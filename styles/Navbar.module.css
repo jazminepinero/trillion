@@ -1,0 +1,39 @@
+.navbar {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90deg, rgb(0, 0, 0) 100%, rgba(0, 0, 0, 0.504) 100%, rgb(0, 0, 0) 98%);
+    font-size: 1.15rem;
+    font-family: brandon-grotesque, sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  
+}
+
+.navbarLogo {
+font-size: 2rem;
+}
+
+.toggle {
+    text-align: center;
+}
+
+.dropdown:hover {
+    color: rgba(117, 9, 117, 0.527);
+    
+    
+   
+    
+}
+
+.items {
+   text-align: center;
+ 
+   
+}
+
+.items:hover {
+    color: whitesmoke;
+    background-color: rgba(117, 9, 117, 0.527);
+
+}
+    
+
